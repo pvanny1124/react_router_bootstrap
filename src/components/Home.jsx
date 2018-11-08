@@ -22,17 +22,17 @@ class Home extends Component {
           <Col xs={12} sm={4} className="person-wrapper">
             <Image src="assets/person-1.jpg" circle className="profile-pic" />
             <h3> Frank </h3>
-            <p> That is a magical being </p>
+            <p> This is better than Robinhood </p>
           </Col>
           <Col xs={12} sm={4} className="person-wrapper">
             <Image src="assets/person-2.jpg" circle className="profile-pic" />
             <h3> Frank </h3>
-            <p> That is a magical being </p>
+            <p> It changed my life </p>
           </Col>
           <Col xs={12} sm={4} className="person-wrapper">
             <Image src="assets/person-3.jpg" circle className="profile-pic" />
             <h3> Frank </h3>
-            <p> That is a magical being </p>
+            <p> Best website ever </p>
           </Col>
         </Row>
       </Grid>
